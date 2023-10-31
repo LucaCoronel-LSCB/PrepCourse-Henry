@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-esta es la descripcion de un prep course de henry
+prueba de como crear un repositorio y clonarlo desde github a mi computadora
